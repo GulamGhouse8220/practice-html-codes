@@ -1,0 +1,76 @@
+h3{
+    color: red;
+}
+
+.aa{
+    color: black;
+}
+.bb{
+    color: brown;
+}
+#xx{
+    color: yellow;
+    background-color: blueviolet;
+}
+#yy{
+    color: blue;
+    background-color: black;
+}
+body{
+    background-color: white;
+}
+span.hunter{
+    color: aqua;
+}
+div.hunter{
+    color: blue;
+}
+table,th,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+    padding: 20px;
+    /* float: right; */
+}
+th{
+    background-color: blue;
+}
+td{
+    background-color: aqua;
+}
+input{
+    border-radius: 16px;
+}
+label{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+/* button,a.ab:link{
+    text-decoration: none;
+    background-color: blueviolet;
+} */
+body{
+    /* background-image: url(../../IMG-20210331-WA0080.jpg); */
+}
+ button:hover{
+    font-size: xx-large;
+    background-color: violet;
+} 
+img{
+    width: 30%;
+    float: right;
+}
+
+table{
+
+}
+p{
+    word-spacing: 5px;
+}
+
+
+
+
+
+
+
